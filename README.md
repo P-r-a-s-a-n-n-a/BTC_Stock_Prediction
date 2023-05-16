@@ -11,7 +11,7 @@ This project demonstrates how to use Long Short-Term Memory (LSTM) neural networ
 
 The project is implemented in a Jupyter Notebook and follows the following steps:
 
-## Data Collection: The stock price data is loaded from a CSV file, which contains the historical prices.
+- Data Collection: The stock price data is loaded from a CSV file, which contains the historical prices.
 ## Data Preprocessing: The relevant columns are selected, the 'Date' column is converted to datetime format, and the data is scaled using MinMaxScaler to ensure consistent ranges.
 ## Data Split: The preprocessed data is split into training and testing sets, with a specified ratio.
 ## LSTM Model Creation: An LSTM model is built using the TensorFlow library. It consists of LSTM layers to capture temporal patterns and a dense output layer for prediction.
