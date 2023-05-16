@@ -1,4 +1,4 @@
-# Stock_Prediction
+# Stock Prediction
 
 # Bharat Data Science Intern
 
