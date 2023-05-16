@@ -5,7 +5,7 @@
 Take stock price of any company you
 want and predicts its price by using LSTM.
 
-# Stock Price Prediction using LSTM
+## Stock Price Prediction using LSTM
 
 This project demonstrates how to use Long Short-Term Memory (LSTM) neural networks to predict stock prices. By utilizing the power of LSTM, we can capture temporal dependencies and make accurate predictions based on historical data.
 
@@ -21,6 +21,6 @@ The project is implemented in a Jupyter Notebook and follows the following steps
 
 This project serves as a starting point for predicting stock prices using LSTM. By experimenting with different parameters, techniques, and data sources, you can further enhance the accuracy of the predictions.
 
-# Data Source: Yahoo BTC/USD CSV File
+## Data Source: Yahoo BTC/USD CSV File
 
 The stock price data used in this project is sourced from the Yahoo Finance API. Specifically, the BTC/USD (Bitcoin to US Dollar) historical data is obtained from a CSV file provided by Yahoo.
